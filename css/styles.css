@@ -1,0 +1,7 @@
+@import "reset.css";
+@import "variables.css";
+@import "screens/login.css";
+
+*{
+    box-sizing: border-box;
+}
